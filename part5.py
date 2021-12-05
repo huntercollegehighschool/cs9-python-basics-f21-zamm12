@@ -13,3 +13,6 @@ Hello, Ash Ketchum
 '''
 
 #start writing your code below
+firstname = input("Enter your first name: ")
+lastname = input("Enter  your last name: ")
+print("Hello", firstname, lastname )
